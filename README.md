@@ -66,7 +66,3 @@
 
 ### 🧠 Philosophy
 > _“Code should be readable, reliable, and ruthlessly efficient.”_
-
----
-
-_Thanks for stopping by! Let’s build something exceptional together._
